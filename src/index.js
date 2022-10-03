@@ -6,7 +6,7 @@ function Hi() {
   return (
     <div className="container">
       <div className="name-div">
-        <span className="name">Inzamam Malik</span>
+        <span className="name">Asharib Ali</span>
         <span className="profession">Web Developer</span>
       </div>
 
